@@ -1,4 +1,4 @@
 - Hello everyone, I’m Programmic10
 - Now I'm programming in C++
 - I'm doing now the Shooting Battle it's on Pre-Alpha development
-- You can write me on s-t-r-a-h10@yandex.ru in order to receive new versions of the game Shooting Battle
+- You can write me on s-t-r-a-h10@yandex.ru in order to receive new versions of the Shooting Battle
